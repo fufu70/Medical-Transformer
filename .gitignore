@@ -1,0 +1,13 @@
+lib
+__pycache__
+notebooks/MoNuSegTestData.zip
+notebooks/MoNuSegTestData
+notebooks/MoNuSegTrainingData.zip
+notebooks/MoNuSegTrainingData
+notebooks/test_folder
+notebooks/train_folder
+notebooks/validation_folder
+notebooks/train_results
+notebooks/test_results
+notebooks/train_resultsfinal_model.pth
+notebooks/.ipynb_checkpoints
